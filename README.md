@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ismail
 
-<!--
-**ismailrehman154-gif/ismailrehman154-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Engineer @ Resilient Coders, based in the NYC metro area.
 
-Here are some ideas to get you started:
+I write JavaScript every day: daily Codewars katas, Resilient Coders coursework, and apps that solve real little problems. Everything I build is documented here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- **Hoops** - a Node.js/Express and MongoDB app that shows anonymous park traffic on a map so players can find active basketball courts
+- **Daily Codewars in JavaScript** - [codeWarSolutions](https://github.com/ismailrehman154-gif/codeWarSolutions)
+- **Coursework** - API apps, games, and Node servers from the Resilient Coders program
+
+## Tech I work with
+
+JavaScript, Node.js, Express, MongoDB, HTML, CSS, REST APIs, Git & GitHub
+
+---
+
+Open to junior software engineering roles in the NYC area. My portfolio: ismailrehman.netlify.app - the best way to reach me is through LinkedIn.
