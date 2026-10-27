@@ -7,7 +7,7 @@ I'm a Full Stack Engineer based in the New York City metropolitan area, studying
 ### 🔭 What I'm up to
 
 - 🏀 Building **Hoops**, an app that helps basketball players find active courts. It maps 558 NYC courts and shows anonymous park traffic, so you can see which parks are live without anyone's location being tracked. Live here: https://hoops-ismail.onrender.com and the code is at [Hoops-](https://github.com/ismailrehman154-gif/Hoops-)
-- 🏋️ **Workout Log**, a full-stack training logger with accounts, a Mongoose data model with real validation rules, and owner-only editing, so your log is yours. Code: [Workout-Log](https://github.com/ismailrehman154-gif/Workout-Log)
+- 🏋️ **Workout Log**, a full-stack training logger with accounts, a Mongoose data model with real validation rules, and owner-only editing, so your log is yours. Live: https://workout-log-ismail.onrender.com, code: [Workout-Log](https://github.com/ismailrehman154-gif/Workout-Log)
 - 📓 **Private Notes**, a journaling app with login, mood tracking, and notes only the owner can see. Live: https://private-notes-ismail.onrender.com, code: [private-notes](https://github.com/ismailrehman154-gif/private-notes)
 - 🍽️ **Halal Eats**, a full CRUD list of halal spots around the city, built with Express, MongoDB, and EJS. Live: https://halal-eats-ismail.onrender.com, code: [halal-eats](https://github.com/ismailrehman154-gif/halal-eats)
 - 🛍️ Freelance client work: a Shopify storefront for **SunnahWay** and a portfolio site for a client at [andrewmakrides.com](https://andrewmakrides.com)
